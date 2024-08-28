@@ -8,10 +8,10 @@ pip install sctn
 ```
 
 ### Examples
-#### time_frequency_analasys
+#### time_frequency_analasys.ipynb
 A notebook with simulation of how the resonator architecture and simulation of its response.
 
-#### resonator_training
+#### resonator_training.ipynb
 A notebook with a simulation of the training process to achieve the weights and biases of the resonator to frequency `f0`
 
 
